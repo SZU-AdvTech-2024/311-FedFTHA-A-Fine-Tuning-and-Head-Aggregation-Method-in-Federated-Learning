@@ -1,0 +1,10 @@
+@article{REPO311,
+    author = "Wang, Yansong and Xu, Hui and Ali, Waqar and Li, Miaobo and Zhou, Xiangmin and Shao, Jie",
+    journal = "IEEE Internet of Things Journal",
+    number = "14",
+    pages = "12749--12762",
+    publisher = "IEEE",
+    title = "{Fedftha: a fine-tuning and head aggregation method in federated learning}",
+    volume = "10",
+    year = "2023"
+}
